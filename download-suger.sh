@@ -1,0 +1,1 @@
+wget https://gitlab.com/cspsat/prog-sugar/-/raw/master/build/sugar-2.3.4.zip
