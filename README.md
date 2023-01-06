@@ -7,7 +7,8 @@
 ![image](https://user-images.githubusercontent.com/26019458/211100538-cc9b7881-87d9-4024-96f2-dd9c717aaca6.png)
 
 ## Requiremnts
-- suger-2.3.4
+
+- sugar-2.3.4
 - minisat or z3
 
 ```
